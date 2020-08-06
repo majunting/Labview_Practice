@@ -11,6 +11,9 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="task_1.vi" Type="VI" URL="../task_1.vi"/>
+		<Item Name="task_2.vi" Type="VI" URL="../task_2.vi"/>
+		<Item Name="task_2_supp.vi" Type="VI" URL="../task_2_supp.vi"/>
+		<Item Name="task_3.vi" Type="VI" URL="../task_3.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
