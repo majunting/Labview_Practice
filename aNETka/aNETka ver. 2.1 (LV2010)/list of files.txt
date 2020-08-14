@@ -1,0 +1,39 @@
+Main folder (aNETka):
+1. aNETka - Opertion manual.pdf
+2. example 2 inputs, 1 output (aNETka).txt
+3. example 2 inputs, 1 output.txt
+4. list of files.txt
+5. Recall aNETka (batch).vi
+6. Recall aNETka (single).vi
+7. Train aNETka.vi
+8. trained aNETka example.txt
+
+subfolder Library:
+1. Adaptive learning.vi
+2. Backpropagation.vi
+3. Calculate ANN.vi
+4. Config aNETka.vi
+5. Correlation.vi
+6. Display components.vi
+7. Draw ANN configuration.vi
+8. Get ANN outputs.vi
+9. Get iterations.vi
+10. Get learning rates.vi
+11. Get transfer function.vi
+12. Initiate nodes.vi
+13. Initiate variables.vi
+14. Interleave 2D array.vi
+15. Randomize (test set).vi
+16. Read data (recall mode).vi
+17. Read data.vi
+18. Remove first row.vi
+19. Resize ANN configuration.vi
+20. Restore data.vi
+21. RMS error (percent).vi
+22. Scaling data (from 0.05 to 0.95).vi
+23. Scaling data (recall mode).vi
+24. Sigmoid function.vi
+25. Single recall.vi
+26. Tangent hyperbolic derivative.vi
+27. Test cases.vi
+28. Visualize nodes.vi

@@ -1,0 +1,19 @@
+Tangent hyp.	2	2	1	
+Layer:0
+1.078248E+0	1.042596E+0	-1.370765E+0
+4.589589E+0	4.522597E+0	-8.610027E+0
+Layer:1
+6.654454E-1	7.598993E-1	1.387892E+0
+Scaling limits (Down Inputs, Up Inputs, Down Targets, Up Targets):
+5.000000E-2	5.000000E-2
+9.000000E-1	9.000000E-1
+5.250000E-2
+1.800000E+0
+Input file: 
+H:\My Documents\LabVIEW example programs by SZ\aNETka ver. 2.0 (LV8.1)\Copy of aNETka ver. 2.0 (LV8.1)\1+2^2.txt
+Inputs:
+In1	In2
+Targets:
+Out1
+Test cases:
+0

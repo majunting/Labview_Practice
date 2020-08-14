@@ -1,0 +1,22 @@
+Sigmoid	2	5	1	
+Layer:0
+-4.779270E+0	-2.686441E+1	1.191661E+1
+1.892237E+0	5.757058E-1	-1.914768E+0
+1.858844E+1	2.438244E+1	-1.377174E+1
+-1.192435E+1	-4.806564E+1	2.311002E+1
+3.015997E+0	-1.115190E+0	-2.978118E+0
+Layer:1
+-6.762889E+0	1.022683E+0	9.656659E+0	1.732341E+1	-1.274145E+0	-9.741091E+0
+Scaling limits (Down Inputs, Up Inputs, Down Targets, Up Targets):
+1.000000E+0	2.000000E+1
+5.110000E+2	1.102656E+1
+-8.885134E+0
+1.373586E+1
+Input file: 
+D:\Jeanete toroids1\aNETka\!new approach\aNETka 8 (uploaded)\aNETka\example 2 inputs, 1 output.txt
+Inputs:
+Input 1	Input 2
+Targets:
+Output 1
+Test cases:
+0
