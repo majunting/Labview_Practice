@@ -1,0 +1,22 @@
+Sigmoid	2	5	1	
+Layer:0
+5.606306E+0	-9.580551E-1	-2.148707E-1
+1.156184E+1	5.218721E+0	-4.727504E+0
+3.045204E+0	6.364589E+0	-9.080995E+0
+-3.707250E+0	-2.779641E+0	-1.390974E+0
+-2.360882E-1	8.388116E+0	-4.898492E+0
+Layer:1
+3.290223E+0	-8.010227E+0	-5.634493E+0	2.320151E+0	5.508077E+0	1.221889E+0
+Scaling limits (Down Inputs, Up Inputs, Down Targets, Up Targets):
+1.156000E+2	1.696000E+2
+1.101000E+2	3.479999E+1
+1.647000E+2
+6.440001E+1
+Input file: 
+C:\Users\juntingma\Documents\GitHub\Labview_Practice\aNETka\aNETka ver. 2.1 (LV2010)\ann inputs.txt
+Inputs:
+time 1	time 2
+Targets:
+time 3
+Test cases:
+0
