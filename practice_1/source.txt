@@ -1,2 +1,0 @@
-https://github.com/RyanThorna/LabVIEW
-source code for task_2_supp.vi: BlackBox.vi

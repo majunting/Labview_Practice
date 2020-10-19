@@ -1,1 +1,6 @@
 https://faraday.physics.utoronto.ca/GeneralInterest/LabView.html
+-------------------------
+practice_1: https://github.com/RyanThorna/LabVIEW
+* source code for task_2_supp.vi: BlackBox.vi
+-------------------------
+practice_3: https://k12lab-support-pages.s3.amazonaws.com/lvbasichome1.html from tutorial 5
